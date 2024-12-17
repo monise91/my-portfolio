@@ -111,10 +111,15 @@ Adicione imagens ou um link para a demo ao vivo, caso disponível.
 Se você deseja desenvolver seu site ou sistema sob medida, entre em contato!
 
 Monise da Silva
-WhatsApp: (14)991784044
-LinkedIn: [Perfil](https://linkedin.com/in/monise-da-silva)
-GitHub: [Perfil](https://github.com/monise91)
+
+[WhatsApp](https://wa.me/5514991784044)
+
+[LinkedIn](https://linkedin.com/in/monise-da-silva)
+
+[GitHub](https://github.com/monise91)
+
 E-mail: monisesilva91@hotmail.com
+
 🔗 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!
 
