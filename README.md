@@ -1,50 +1,121 @@
-# React + TypeScript + Vite
+# 🚀 Sites Sistemas | Monise da Silva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Desenvolvedora Back-End | Criação de sites e sistemas personalizados**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 **Descrição do Projeto**
 
-## Expanding the ESLint configuration
+Este repositório contém o código de um **portfólio profissional** desenvolvido para apresentar meus serviços de desenvolvimento de **sites e sistemas personalizados**. O projeto inclui:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Página Inicial** com informações principais sobre os serviços.
+- **Sobre Mim** com informações pessoais e minha trajetória profissional.
+- **Serviços** que ofereço (sites institucionais, landing pages, sistemas personalizados e mais).
+- **Projetos** recentes com descrições e imagens (Sistema de Gestão de Academias, Aplicativo de Agendamento).
+- **Contato** para facilitar a comunicação com clientes interessados.
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🔑 **Funcionalidades**
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+### 1. **Página Inicial**
+   - Apresentação clara e objetiva dos serviços.
+   - Botões de acesso direto para orçamento e contato.
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+### 2. **Sobre Mim**
+   - Informações sobre minha formação acadêmica e experiência profissional.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+### 3. **Serviços**
+   - Descrição dos principais serviços oferecidos:
+     - Sites institucionais
+     - Portfólio profissional
+     - Landing Pages
+     - Sistemas personalizados
+     - Blogs
+
+### 4. **Projetos**
+   - Apresentação dos projetos mais recentes com imagens.
+   - Destaque para funcionalidades e benefícios.
+   - Navegação entre imagens com rolagem lateral e setas.
+
+### 5. **Contato**
+   - Links para WhatsApp, e-mail, LinkedIn, GitHub e Instagram.
+   - Botões de fácil interação.
+
+---
+
+## 🛠️ **Tecnologias Utilizadas**
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
+
+- **Front-end**:
+  - React.js
+  - Material UI
+  - CSS3
+- **Gerenciamento de Dependências**:
+  - npm
+- **Outras Ferramentas**:
+  - Git e GitHub
+
+---
+## ✨ **Demonstração do Projeto**
+
+Acesse o site ao vivo clicando no link abaixo:
+
+🔗 **[Acesse o Site Aqui](https://www.sitessistemas.com.br)**
+
+---
+
+## 📝 **Como Executar Localmente**
+
+### **Pré-requisitos**
+Certifique-se de ter o **Node.js** e o **npm** instalados na sua máquina.
+
+### **Passo a Passo**
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+Instale as dependências:
+
+bash
+Copiar código
+npm install
+Execute o projeto:
+
+bash
+Copiar código
+npm start
+Acesse o projeto no navegador:
+
+arduino
+Copiar código
+http://localhost:3000
+
+📝 Projetos Recentes
+Sistema de Gestão de Academias
+Sistema completo com funcionalidades:
+Cadastro de alunos
+Controle de pagamentos
+Agendamento de aulas
+Envio de notificações automáticas
+Aplicativo de Gestão e Agendamento
+Aplicativo com funcionalidades:
+Agendamento de serviços
+Notificações automáticas
+Fluxo otimizado via WhatsApp para agendamento direto.
+✨ Demonstração do Projeto
+Adicione imagens ou um link para a demo ao vivo, caso disponível.
+
+📞 Contato
+Se você deseja desenvolver seu site ou sistema sob medida, entre em contato!
+
+Monise da Silva
+WhatsApp: (14)991784044
+LinkedIn: [Perfil](https://linkedin.com/in/monise-da-silva)
+GitHub: [Perfil](https://github.com/monise91)
+E-mail: monisesilva91@hotmail.com
+🔗 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!
+
+Feito com 💻 e muita dedicação por Monise da Silva.
